@@ -1,0 +1,16 @@
+{
+  "nombre": "Emperador",
+  "natCode": "34104646117",
+  "geometry": "{\"geometry\":{\"coordinates\":[[[[-0.3383979,39.55284121],[-0.33985151,39.55334298],[-0.33885305,39.55501374],[-0.33778374,39.55465591],[-0.3381158,39.55413201],[-0.33768222,39.55398243],[-0.3383979,39.55284121]]]],\"type\":\"MultiPolygon\"},\"type\":\"Feature\",\"properties\":{\"COUNTRY\":\"ES\",\"NATLEVEL\":\"http:\\/\\/inspire.ec.europa.eu\\/codelist\\/AdministrativeHierarchyLevel\\/4thOrder\",\"NAMEUNIT\":\"Emperador\",\"INSPIREID\":\"ES.IGN.SIGLIM34104646117\",\"CODNUT3\":\"ES523\",\"NATCODE\":\"34104646117\",\"CODNUT2\":\"ES52\",\"CODNUT1\":\"ES5\"}}",
+  "idMunicipio": 46117,
+  "idAutonomia": 10,
+  "idProvincia": 46,
+  "idPais": 34,
+  "lat": 39.55391057246727,
+  "lon": -0.338667415528096,
+  "nombreNormalizado": "emperador",
+  "limit": [
+    46177
+  ],
+  "poblacion": 707
+}
